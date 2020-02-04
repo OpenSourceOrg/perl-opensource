@@ -1,3 +1,5 @@
+<img align="right" width="150" height="200" src="https://opensource.org/files/OSIApproved.png">
+
 # NAME
 
 OpenSourceOrg::API - Perl API Bindings to the OSI License API 
